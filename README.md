@@ -7,3 +7,8 @@ Today we did an inclass activity as a group using teamwork to compare the waterf
 In the last Thursday sesion, we worked as a team with marshmallows to build the tallest tower. This can be linked to the concept of agile software development, where collaboration in a tean is essential to evolve and develop solutions to problems. Agile appeared to be more similar to a dot plot, where it has uncertainty but has success through smaller increments. 
 
 The main goal was to understand what MVP was - this is the Minimum Viable Product in agile. It requires working from the top down, recognising users/consumers etc. 
+
+## Code I'm inspired by:
+
+A lot of my inspiration would probably come from youtubers I watch, specifically Dream.. : (i'll put a link to his youtube later)
+In his videos, Dream uses plugins coded by him and his friends for minecraft challenge videos! I would say his videos would be a main source of inspiration for me as I love the creativity involved in coming up with the ideas, and seeing it excecuted in a really entertaining way through a video format is a great way to inspire other people interested in code too. I like this video in particular: ---, explain explain. ok bye lol
