@@ -15,4 +15,4 @@ In his videos, Dream uses plugins coded by him and his friends for minecraft cha
 I find the coding in this video to be particularly inspiring, as they have used a simple concept of using (presumably java code) to swap places with each other every five minutes, while making it an entertaining video idea as a fight to the death - who ever kills the other first wins. 
 
 More code I found inspiring, more within my skill level (I think) is this python calculator I found on GitHub:
-[test](https://youtube.com/c/dream)
+[Calculator](https://github.com/geekcomputers/Python/blob/master/calculator.py).
