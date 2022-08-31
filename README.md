@@ -52,3 +52,7 @@ Reflective questions: How did you feel as a subject of a video? Did you notice y
 This lesson was based around relational aesthetics, from what I understand this is where art is based or inspired from human relations, or where the concept of the audience and the performer is blurred. In our lesson, we created a form (?) of acyclic graph. This is a type of graph that has no directed cycles. So the graph is still connected by vertices but does not necessarily complete a full loop.
 I thought this was a really interesting lesson and way to learn this concept as a class, although referring to the questions above I can be pretty camera shy so I probably wasn't the best for this activity haha..
 We could definitely draw this activity, as it wouldn't be a closed loop in my opinion with the amount of videos made.
+
+## My code (Scratch and dog years calculator)
+
+I uploaded two very small code I made based on some of the lessons tasks, I can't check if they actually uploaded properly because I work on a mac so hopefully it did. I found my scratch project super fun to make, it was really easy way to make an almost video game. This felt quite creative and fun to me as I got to redraw the sprite and background. The dog years calculator was also interesting to make as it was a more traditional way to code, and the first time I tried coding. I did attempt the other coding tasks but I chose to leave it for when Roman was in class because alot of us got stuck haha.
