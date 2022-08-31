@@ -90,28 +90,49 @@ The main goal was to understand what MVP was - this is the **Minimum Viable Prod
 
 #### Did you remember to take regular breaks away from your screen during this week? How often? Did you stretch your body?
 
+I feel like I subconciously take breaks from my screen through music, either through practising violin or singing along to random music haha. I should probably try to knowingly take breaks more regularly though.  
+
 #### What is Timeboxing? Have you heard of it before? Will you use it?
+
+I have never heard of timeboxing, but it is a form of time management where fixed time is allocated to an activity. I don't think I could use this as I feel like my energy or motivation is quite random, so keeping to a tight or specific schedule would feel overwhelming.
 
 #### On a a 0-5 scale, how confident are you with each of the assignments?
 
+4, I am pretty confident in this assignment but not so confident for the next assignment - most likely because I'm known to be a high achiever even if I don't really need to be.
+
 #### What are of you proud of up to this point in the course?
+
+I'm proud of getting code to function, its small but still motivating.
 
 #### Do you have a personal learning strategy? If so, what parts of your learning strategy worked? What problems did you face? If you don't have a personal strategy yet, what do you think might work? Invent a describe a strategy for yourself. 
 
+Not sure if this is really a strategy, but usually reviewing after a lecture or quickly skimming notes maybe a few days after helps to reinforce what I learnt. I think this is probably quite a lazy technique, but honestly has never failed me. Consistent and small ish amounts of effort, through reviewing or practice here and there builds up overtime and helps your memory. Another more contrasting technique could be a blurt technique, which is a bit more time consuming. This where I would hear a topic and write down everything I knew or was recently taught about the subject. This is probably more useful for subjects like biology with large amounts of content, but it is definietly way more time consuming.
+
 #### If you could send a time traveling text message back to yourself at the start of this course, what would it say?
 
+Check your assesment date times...
+
 #### What is Python?
+
+Python is a type of computer programming language that we are aiming to learn a bit of in this course. This is a general-purpose language, meaning it is not specialised for any specific problem. 
 
 #### Have you developed a habit of exploring?
 
 #### Have you meditated before?
 
+I have in highschool in our Religious Education classes, but outside of this no. So it would be nice to do meditation without such a focus on religion.
+
 #### Is there something over which you have gained a degree of mastery before in your life? Gymnastics, Rubik's Cubes, A Video Game? What did it take?
 
+I've gained a really high degree of mastery in violin, I have payed since I was 4 years old. So I guess achieving that mastery took pretty much my whole life haha,, I only really started getting into fully mastering violin at around 12 years old so I know that it takes alot of motivation, dedication and long hours of practice.
+
 #### Do you consider yourself a developer yet?
-itself? What about as a tool for learning to think logically?
+
+I think kind of, a very beginner developer with big ideas. 
 
 #### How many tabs do you have open in your web browser right now? What is the ratio of study related tabs to distraction related tabs?
+
+Around 70, 20-30 are study related. 
 
 #### Have you had a fight response to technology? What does it feel like? How did you overcome this?
 
@@ -119,25 +140,40 @@ itself? What about as a tool for learning to think logically?
 
 #### What did you learn out of the Marshmallow Challenge?
 
+I learnt that I should probably try to value teamwork more. More specifically I guess is that simple is better, and to not overthink it atleast on the first attempt. 
+
 #### Did you have any blocks during this challenge? How did you overcome them?
+
+In our group, there were multiple ideas that were clashing or too complicated for the challenge. We overcame them by thinking more simply, but it did take us to the final try haha.
 
 #### So far, what was the hardest moment of this course for you?
 
+Coming up with or making ideas for my project, I'm very indecisive but I also want to be happy with my work so I don't want to do something too simple, but also not something too complicated. 
+
 #### What is OOP?
 
-#### Are you using the canvas content? Do you find it helpful or tedious?
+Object-oriented Programming
+This is a style of programming where the design is oriented around logical objects/data (objects contain data), therefore programmers can focus on the objects they want to manipulate, not how to manipulate them. This means python is designed for OOP. 
+
+#### Are you using the canvas content? Do you find it helpful or tedious? 
+
+I think the announcements are really useful to keep me on track for upcoming classes. 
 
 #### Which parts of the work did you find tedious?
 
+
+
 #### What is polymorphism?
 
-#### Did you hear a self critical voice in your head throughout the process of learning during this last few weeks? What did it say to you? Do you believe what it said?
+Polymorphism in programming is the supplying of a single interface, e.g. a class that extends to another potentially different entity. Polymorphism appears to be very important in OOP, as it allows a single interface to have multiple implementations. 
 
-#### What is an MVP? How would you describe it to a group of 6 year olds?
+#### Did you hear a self critical voice in your head throughout the process of learning during this last few weeks? What did it say to you? Do you believe what it said?
 
 #### What is the hardest problem you have solved so far?
 
 #### What is pair programming?
+
+This is an agile programming technique where two programmers work together at a single computer. One writes the code and the other reviews it as its being written. 
 
 #### What are you looking forward to learning about programming?
 
@@ -145,9 +181,15 @@ itself? What about as a tool for learning to think logically?
 
 #### What is a variable?
 
+A variable is something that can be changed, or replaced. It can be defined as something e.g. 'x'. In programming, they are used in the same way where they store information that can be changed according to the program. 
+
 #### What programming languages are you interested in learning? Why?
 
+Probably Java, no partciular reason I don't know much about it only that Minecraft uses it hahah. But I'm open to other languages, and creative ones look especially fun. 
+
 #### What is something kind that someone has done for you?
+
+
 
 #### If you were describing programming to someone who knows nothing about it, what would you say?
 
@@ -156,6 +198,8 @@ itself? What about as a tool for learning to think logically?
 #### What is a fixed mindset?
 
 #### What is something kind you have done for someone else?
+
+I had my first orchestra rehearshal this week, I arrived a bit early so I helped set up all the chairs.
 
 #### Have you done mindfulness or attention training before?
 
