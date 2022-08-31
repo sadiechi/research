@@ -1,16 +1,10 @@
 # research
 <!--hello-->
+---
 
 ## Recent class ideas
 
 During class I was shown techniques to apply music to coding which sounds really cool to me! I think this could be a really good idea especially for me as I'm quite a perfectionist, and coding with music feels quite uncertain and unknown to me. But this also could be a good idea for my upcoming project because it is not completely unfamiliar as I've grown up around music, so maybe I could incorporate my violin playing into this too.
-
-## Aug 26 class reflection:
-Today we did an inclass activity as a group using teamwork to compare the waterfall model to the agile model. In this lesson and previous lessons I understood that using a waterfall model is where an approach to a software developement project is done in linear steps, where there is a clear end goal. Waterfall model is still one of the most common approaches in developers, with a very logicial progression where each step must be completed before moving to the next. 
-
-In the last Thursday sesion, we worked as a team with marshmallows to build the tallest tower. This can be linked to the concept of agile software development, where collaboration in a tean is essential to evolve and develop solutions to problems. Agile appeared to be more similar to a dot plot, where it has uncertainty but has success through smaller increments. 
-
-The main goal was to understand what MVP was - this is the Minimum Viable Product in agile. It requires working from the top down, recognising users/consumers etc. 
 
 ## Code I'm inspired by:
 
@@ -45,7 +39,11 @@ print("\nScientific Calculator\n\nFor Example: sin(rad(90)) + 50% * (sqrt(16)) +
 I'm able to identify techniques we learnt earlier, simple ones like print, if, else and elif.
 Some of these I was able to use in coding a couple weeks ago, which I uploaded to my repository (I think this was the dog years calculator)
 
-## 18 Aug class
+---
+
+# some afterclass reflections
+
+## 18 Aug class reflection:
 
 Today we made a video graph as a class, I think this is a more important class to reflect on because it wasn't a traditional lecture. As a class we were given instruction to create a video chain and then play this at the end. 
 Reflective questions: How did you feel as a subject of a video? Did you notice your ego? How are we evolving with this device? How could we draw this activity? Did you feel more attachment to the phone than to your image?
@@ -54,9 +52,19 @@ This lesson was based around relational aesthetics, from what I understand this 
 I thought this was a really interesting lesson and way to learn this concept as a class, although referring to the questions above I can be pretty camera shy so I probably wasn't the best for this activity haha..
 We could definitely draw this activity, as it wouldn't be a closed loop in my opinion with the amount of videos made.
 
+## Aug 26 class reflection:
+
+Today we did an inclass activity as a group using teamwork to compare the waterfall model to the agile model. In this lesson and previous lessons I understood that using a waterfall model is where an approach to a software developement project is done in linear steps, where there is a clear end goal. Waterfall model is still one of the most common approaches in developers, with a very logicial progression where each step must be completed before moving to the next. 
+
+In the last Thursday sesion, we worked as a team with marshmallows to build the tallest tower. This can be linked to the concept of agile software development, where collaboration in a tean is essential to evolve and develop solutions to problems. Agile appeared to be more similar to a dot plot, where it has uncertainty but has success through smaller increments. 
+
+The main goal was to understand what MVP was - this is the Minimum Viable Product in agile. It requires working from the top down, recognising users/consumers etc. 
+
 ## My code (Scratch and dog years calculator)
 
 I uploaded two very small code I made based on some of the lessons tasks, I can't check if they actually uploaded properly because I work on a mac so hopefully it did. I found my scratch project super fun to make, it was really easy way to make an almost video game. This felt quite creative and fun to me as I got to redraw the sprite and background. The dog years calculator was also interesting to make as it was a more traditional way to code, and the first time I tried coding. I did attempt the other coding tasks but I chose to leave it for when Roman was in class because alot of us got stuck haha.
+
+---
 
 # Reflective Prompts
 
