@@ -4,6 +4,8 @@
 
 # Inspiration I Found (+ comments on my own code / project ideas) 
 
+---
+
 ## Inspiration
 
 A lot of my inspiration would probably come from youtubers I watch, specifically [Dream](https://youtube.com/c/dream)
@@ -53,6 +55,8 @@ During class I was shown techniques to apply music to coding which sounds really
 ---
 
 # A Few Afterclass Reflections
+
+---
 
 ## 18 Aug class reflection:
 
