@@ -110,13 +110,11 @@ Not sure if this is really a strategy, but usually reviewing after a lecture or 
 
 #### If you could send a time traveling text message back to yourself at the start of this course, what would it say?
 
-Check your assesment date times...
+Check your assesment times, and ask more questions. 
 
 #### What is Python?
 
 Python is a type of computer programming language that we are aiming to learn a bit of in this course. This is a general-purpose language, meaning it is not specialised for any specific problem. 
-
-#### Have you developed a habit of exploring?
 
 #### Have you meditated before?
 
@@ -136,7 +134,11 @@ Around 70, 20-30 are study related.
 
 #### Have you had a fight response to technology? What does it feel like? How did you overcome this?
 
+Yup, it's very frustrating. I thought the best idea was to just take a break. I do the same when I practice violin, when I come back even just 10 mins later I sound alot better. 
+
 #### What is an IDE?
+
+IDE is an Integrated Development Environment, this is an application used specifically for computer programmers to develop software. 
 
 #### What did you learn out of the Marshmallow Challenge?
 
@@ -161,7 +163,7 @@ I think the announcements are really useful to keep me on track for upcoming cla
 
 #### Which parts of the work did you find tedious?
 
-
+I like to push the limits of what I can do, so when trying out those coding tasks I really wanted to go further and do the others but wasn't really able to (or encouraged to) as we hadn't reached that point in the course yet. 
 
 #### What is polymorphism?
 
@@ -177,6 +179,8 @@ This is an agile programming technique where two programmers work together at a 
 
 #### What are you looking forward to learning about programming?
 
+I'm looking forward to applying programming to our projects, or learning the whole process that comes with codinga small project like this or similar.
+
 #### What is conscious listening?
 
 #### What is a variable?
@@ -189,9 +193,9 @@ Probably Java, no partciular reason I don't know much about it only that Minecra
 
 #### What is something kind that someone has done for you?
 
-
-
 #### If you were describing programming to someone who knows nothing about it, what would you say?
+
+Programming tells a computer exactly what to do and how to work. 
 
 #### Which parts of this course made you feel doubtful of your own innate ability?
 
@@ -201,6 +205,6 @@ Probably Java, no partciular reason I don't know much about it only that Minecra
 
 I had my first orchestra rehearshal this week, I arrived a bit early so I helped set up all the chairs.
 
-#### Have you done mindfulness or attention training before?
-
 #### Have you developed a habit of persevering?
+
+I think I definitely have, but probably more from taking calculus where it is super overwhelming to learn, but it teaches you to learn the fun and beauty you can see in mathematics. I think this also can be applied to coding/this course, where it can seem intense at first or unfamiliar, but becomes easier as you begin to learn the ins and outs. 
