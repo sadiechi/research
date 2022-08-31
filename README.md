@@ -4,8 +4,6 @@
 
 # Inspiration I Found (+ comments on my own code / project ideas) 
 
----
-
 ## Inspiration
 
 A lot of my inspiration would probably come from youtubers I watch, specifically [Dream](https://youtube.com/c/dream)
