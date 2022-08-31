@@ -8,9 +8,9 @@
 
 A lot of my inspiration would probably come from youtubers I watch, specifically [Dream](https://youtube.com/c/dream)
 In his videos, Dream uses plugins coded by him and his friends for minecraft challenge videos! I would say his videos would be a main source of inspiration for me as I love the creativity involved in coming up with the ideas, and seeing it excecuted in a really entertaining way through a video format is a great way to inspire other people interested in code too. I like this video in particular: [Minecraft Death Swap 2](https://youtu.be/KjRfXURKAx8)
-I find the coding in this video to be particularly inspiring, as they have used a simple concept of using (presumably java code) to swap places with each other every five minutes, while making it an entertaining video idea as a fight to the death - who ever kills the other first wins. 
+I find the coding in this video to be particularly inspiring, as they have used a simple concept of using (presumably java code) to swap places with each other every five minutes, while making it an entertaining video idea as a fight to the death - who ever kills the other player first wins. This is a fun idea as the player has to come up with scenarios that could kill the other when the swap is initiated. 
 
-More code I found inspiring, more within my skill level (I think) is this python calculator I found on GitHub:
+More code I found inspiring, or more within my skill level (I think) is this python calculator I found on GitHub:
 [Calculator](https://github.com/geekcomputers/Python/blob/master/calculator.py).
 I think this is probably a good area to start in with more traditional coding, especially for a beginner..
 I found in line 112 some code techniques taught in one of the earlier lectures:
