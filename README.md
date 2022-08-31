@@ -40,3 +40,9 @@ I found in line 112 some code techniques taught in one of the earlier lectures:
 I'm able to identify techniques we learnt earlier, simple ones like print, if, else and elif.
 Some of these I was able to use in coding a couple weeks ago, which I uploaded to my repository (I think this was the dog years calculator)
 
+## 18 Aug class
+
+Today we made a video graph as a class, I think this is a more important class to reflect on because it wasn't a traditional lecture. As a class we were given instruction to create a video chain and then play this at the end. 
+Reflective questions: How did you feel as a subject of a video? Did you notice your ego? How are we evolving with this device? How could we draw this activity? Did you feel more attachment to the phone than to your image?
+
+This lesson was based around relational aesthetics, from what I understand this is where art is based or inspired from human relations, or where the concept of the audience and the performer is blurred. 
