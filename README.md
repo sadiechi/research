@@ -22,7 +22,7 @@ More code I found inspiring, more within my skill level (I think) is this python
 [Calculator](https://github.com/geekcomputers/Python/blob/master/calculator.py).
 I think this is probably a good area to start in with more traditional coding, especially for a beginner..
 I found in line 112 some code techniques taught in one of the earlier lectures:
-    print(
+    '''print(
         "\nScientific Calculator\n\nFor Example: sin(rad(90)) + 50% * (sqrt(16)) + round(1.42^2)"
         + "- 12mod3\n\nEnter quit to exit"
     )
@@ -39,7 +39,7 @@ I found in line 112 some code techniques taught in one of the earlier lectures:
             k = raw_input("\nWhat is ")
             if k == "quit":
                 break
-            result(k)
+            result(k)'''
 
 I'm able to identify techniques we learnt earlier, simple ones like print, if, else and elif.
 Some of these I was able to use in coding a couple weeks ago, which I uploaded to my repository (I think this was the dog years calculator)
