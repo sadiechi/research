@@ -1,6 +1,10 @@
 # research
 <!--hello-->
 
+## Recent class ideas
+
+During class I was shown techniques to apply music to coding which sounds really cool to me! I think this could be a really good idea especially for me as I'm quite a perfectionist, and coding with music feels quite uncertain and unknown to me. But this also could be a good idea for my upcoming project because it is not completely unfamiliar as I've grown up around music, so maybe I could incorporate my violin playing into this too.
+
 ## Aug 26 class reflection:
 Today we did an inclass activity as a group using teamwork to compare the waterfall model to the agile model. In this lesson and previous lessons I understood that using a waterfall model is where an approach to a software developement project is done in linear steps, where there is a clear end goal. Waterfall model is still one of the most common approaches in developers, with a very logicial progression where each step must be completed before moving to the next. 
 
