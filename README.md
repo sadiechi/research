@@ -26,10 +26,10 @@ I found in line 112 some code techniques taught in one of the earlier lectures:
 
 
 
-'''python    print(
-        "\nScientific Calculator\n\nFor Example: sin(rad(90)) + 50% * (sqrt(16)) + round(1.42^2)"
-        + "- 12mod3\n\nEnter quit to exit"
-    )
+```python
+
+print("\nScientific Calculator\n\nFor Example: sin(rad(90)) + 50% * (sqrt(16)) + round(1.42^2)"
+        + "- 12mod3\n\nEnter quit to exit")
 
     if sys.version_info.major >= 3:
         while True:
@@ -44,7 +44,8 @@ I found in line 112 some code techniques taught in one of the earlier lectures:
             if k == "quit":
                 break
             result(k)
-'''
+            ```
+
 
 
 
