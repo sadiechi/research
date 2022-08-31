@@ -45,4 +45,6 @@ Some of these I was able to use in coding a couple weeks ago, which I uploaded t
 Today we made a video graph as a class, I think this is a more important class to reflect on because it wasn't a traditional lecture. As a class we were given instruction to create a video chain and then play this at the end. 
 Reflective questions: How did you feel as a subject of a video? Did you notice your ego? How are we evolving with this device? How could we draw this activity? Did you feel more attachment to the phone than to your image?
 
-This lesson was based around relational aesthetics, from what I understand this is where art is based or inspired from human relations, or where the concept of the audience and the performer is blurred. 
+This lesson was based around relational aesthetics, from what I understand this is where art is based or inspired from human relations, or where the concept of the audience and the performer is blurred. In our lesson, we created a form (?) of acyclic graph. This is a type of graph that has no directed cycles. So the graph is still connected by vertices but does not necessarily complete a full loop.
+I thought this was a really interesting lesson and way to learn this concept as a class, although referring to the questions above I can be pretty camera shy so I probably wasn't the best for this activity haha..
+We could definitely draw this activity, as it wouldn't be a closed loop in my opinion with the amount of videos made.
