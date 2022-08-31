@@ -1,12 +1,12 @@
-# research
+# Research and Reflective Diary
 <!--hello-->
 ---
 
-## Recent class ideas
+# Inspiration I Found (+ comments on my own code / project ideas) 
 
-During class I was shown techniques to apply music to coding which sounds really cool to me! I think this could be a really good idea especially for me as I'm quite a perfectionist, and coding with music feels quite uncertain and unknown to me. But this also could be a good idea for my upcoming project because it is not completely unfamiliar as I've grown up around music, so maybe I could incorporate my violin playing into this too.
+---
 
-## Code I'm inspired by:
+## Inspiration
 
 A lot of my inspiration would probably come from youtubers I watch, specifically [Dream](https://youtube.com/c/dream)
 In his videos, Dream uses plugins coded by him and his friends for minecraft challenge videos! I would say his videos would be a main source of inspiration for me as I love the creativity involved in coming up with the ideas, and seeing it excecuted in a really entertaining way through a video format is a great way to inspire other people interested in code too. I like this video in particular: [Minecraft Death Swap 2](https://youtu.be/KjRfXURKAx8)
@@ -39,9 +39,17 @@ print("\nScientific Calculator\n\nFor Example: sin(rad(90)) + 50% * (sqrt(16)) +
 I'm able to identify techniques we learnt earlier, simple ones like print, if, else and elif.
 Some of these I was able to use in coding a couple weeks ago, which I uploaded to my repository (I think this was the dog years calculator)
 
+## My code (Scratch and dog years calculator)
+
+I uploaded two very small code I made based on some of the lessons tasks, I can't check if they actually uploaded properly because I work on a mac so hopefully it did. I found my scratch project super fun to make, it was really easy way to make an almost video game. This felt quite creative and fun to me as I got to redraw the sprite and background. The dog years calculator was also interesting to make as it was a more traditional way to code, and the first time I tried coding. I did attempt the other coding tasks but I chose to leave it for when Roman was in class because alot of us got stuck haha.
+
+## Recent class ideas
+
+During class I was shown techniques to apply music to coding which sounds really cool to me! I think this could be a really good idea especially for me as I'm quite a perfectionist, and coding with music feels quite uncertain and unknown to me. But this also could be a good idea for my upcoming project because it is not completely unfamiliar as I've grown up around music, so maybe I could incorporate my violin playing into this too. Other than this idea, I would love to take inspiration from indie video games in my project somehow.
+
 ---
 
-# some afterclass reflections
+# A Few Afterclass Reflections
 
 ## 18 Aug class reflection:
 
@@ -59,10 +67,6 @@ Today we did an inclass activity as a group using teamwork to compare the waterf
 In the last Thursday sesion, we worked as a team with marshmallows to build the tallest tower. This can be linked to the concept of agile software development, where collaboration in a tean is essential to evolve and develop solutions to problems. Agile appeared to be more similar to a dot plot, where it has uncertainty but has success through smaller increments. 
 
 The main goal was to understand what MVP was - this is the Minimum Viable Product in agile. It requires working from the top down, recognising users/consumers etc. 
-
-## My code (Scratch and dog years calculator)
-
-I uploaded two very small code I made based on some of the lessons tasks, I can't check if they actually uploaded properly because I work on a mac so hopefully it did. I found my scratch project super fun to make, it was really easy way to make an almost video game. This felt quite creative and fun to me as I got to redraw the sprite and background. The dog years calculator was also interesting to make as it was a more traditional way to code, and the first time I tried coding. I did attempt the other coding tasks but I chose to leave it for when Roman was in class because alot of us got stuck haha.
 
 ---
 
