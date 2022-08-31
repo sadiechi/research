@@ -16,3 +16,6 @@ I find the coding in this video to be particularly inspiring, as they have used 
 
 More code I found inspiring, more within my skill level (I think) is this python calculator I found on GitHub:
 [Calculator](https://github.com/geekcomputers/Python/blob/master/calculator.py).
+I think this is probably a good area to start in with more traditional coding, especially for a beginner..
+
+
