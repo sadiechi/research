@@ -56,3 +56,7 @@ We could definitely draw this activity, as it wouldn't be a closed loop in my op
 ## My code (Scratch and dog years calculator)
 
 I uploaded two very small code I made based on some of the lessons tasks, I can't check if they actually uploaded properly because I work on a mac so hopefully it did. I found my scratch project super fun to make, it was really easy way to make an almost video game. This felt quite creative and fun to me as I got to redraw the sprite and background. The dog years calculator was also interesting to make as it was a more traditional way to code, and the first time I tried coding. I did attempt the other coding tasks but I chose to leave it for when Roman was in class because alot of us got stuck haha.
+
+# Reflective Prompts
+
+
