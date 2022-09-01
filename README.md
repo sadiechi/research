@@ -1,12 +1,6 @@
 # Research and Reflective Diary
 <!--hello-->
 
-test
-`test`
-**test**
-*test*
-
-
 ---
 
 ## Inspiration I Found (+ comments on my own code / project ideas) 
@@ -128,6 +122,10 @@ I've gained a really high degree of mastery in violin, I have payed since I was 
 
 I think kind of, a very beginner developer with big ideas. 
 
+#### Do you value creativity? As a value itself? What about as a tool for learning to think logically?
+
+I value creativity alot, especially since majority of my family are involved in the arts. (my parents work in the film industry). I would also say I am a very creative person, I love music and drawing so I value creativity alot. In highschool I took two math subjects and 3 sciences, so I took very technical/ typically logical subjects, so I really believe that creativity is the key to learning to think logically, and achieving a high level in these type of subjects.
+
 #### How many tabs do you have open in your web browser right now? What is the ratio of study related tabs to distraction related tabs?
 
 Around 70, 20-30 are study related. 
@@ -171,7 +169,11 @@ Polymorphism in programming is the supplying of a single interface, e.g. a class
 
 #### Did you hear a self critical voice in your head throughout the process of learning during this last few weeks? What did it say to you? Do you believe what it said?
 
+I think I usually do when learning, usually my critial voice is quite perfectionist and doesn't let me make mistakes. This voice makes it hard to even give things ago, because I get scared of making mistakes. I overcame this and gave things a go, an even if I made 'mistakes' everything was okay, because making mistakes has to be apart of the learning process. It's more overcoming this fear which is the hard part for me. 
+
 #### What is the hardest problem you have solved so far?
+
+I guess what I said above, overcoming my fear of making mistakes, and actually giving coding a go. I solved this by trusting myself, and became more comfortable with this process after messing around a bit within the programs. 
 
 #### What is pair programming?
 
@@ -183,6 +185,8 @@ I'm looking forward to applying programming to our projects, or learning the who
 
 #### What is conscious listening?
 
+Concious listening is where we aim to be intentionally present in a conversation or in a class setting. Being a concious listener will most likely help to retain knowledge taught, as we would be knowingly internalising what we are listening to and aknowledging it. (Instead of just letting information wash over and not truly sink in.)
+
 #### What is a variable?
 
 A variable is something that can be changed, or replaced. It can be defined as something e.g. 'x'. In programming, they are used in the same way where they store information that can be changed according to the program. 
@@ -193,13 +197,19 @@ Probably Java, no partciular reason I don't know much about it only that Minecra
 
 #### What is something kind that someone has done for you?
 
+When my dad drives me to classes or orchestra sometimes during the week.
+
 #### If you were describing programming to someone who knows nothing about it, what would you say?
 
 Programming tells a computer exactly what to do and how to work. 
 
 #### Which parts of this course made you feel doubtful of your own innate ability?
 
+Maybe seeing other classmates assesmentswork, I think it was helpful to know what others are doing but seeing how some people in the class had alot more experience definitely made me feel a little doubtful of my ability (but not overwhelmingly). 
+
 #### What is a fixed mindset?
+
+In a fixed mindset, people believe that their qualities e.g. intelligence are fixed or talents are inherent, and therefore cannot grow. I always thought this is a very close minded and limited mindset, as it pretty much stops you from growing and developing your qualities. FOr example when people say I'm a very talented muscician and they could never be a violinist like me, which is not true at all and almost undermines the hardwork I put in. As well as the fact any one can develop those skills, and shouldn't limit themselves, even if development might come a little slower.
 
 #### What is something kind you have done for someone else?
 
