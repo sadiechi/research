@@ -100,7 +100,7 @@ I'm proud of getting code to function, its small but still motivating.
 
 #### Do you have a personal learning strategy? If so, what parts of your learning strategy worked? What problems did you face? If you don't have a personal strategy yet, what do you think might work? Invent a describe a strategy for yourself. 
 
-Not sure if this is really a strategy, but usually reviewing after a lecture or quickly skimming notes maybe a few days after helps to reinforce what I learnt. I think this is probably quite a lazy technique, but honestly has never failed me. Consistent and small ish amounts of effort, through reviewing or practice here and there builds up overtime and helps your memory. Another more contrasting technique could be a blurt technique, which is a bit more time consuming. This where I would hear a topic and write down everything I knew or was recently taught about the subject. This is probably more useful for subjects like biology with large amounts of content, but it is definietly way more time consuming.
+Not sure if this is really a strategy, but usually reviewing after a lecture or quickly skimming notes maybe a few days after helps to reinforce what I learnt. I think this is probably quite a lazy technique, but honestly has never failed me. Consistent and small ish amounts of effort, through reviewing or practice here and there builds up overtime and helps your memory. Another more contrasting technique could be a blurt technique, which is a bit more time consuming. This where I would hear a topic and write down everything I knew or was recently taught about the subject. This is probably more useful for subjects like biology with large amounts of content, but it is definitely way more time consuming.
 
 #### If you could send a time traveling text message back to yourself at the start of this course, what would it say?
 
@@ -169,7 +169,7 @@ Polymorphism in programming is the supplying of a single interface, e.g. a class
 
 #### Did you hear a self critical voice in your head throughout the process of learning during this last few weeks? What did it say to you? Do you believe what it said?
 
-I think I usually do when learning, usually my critial voice is quite perfectionist and doesn't let me make mistakes. This voice makes it hard to even give things ago, because I get scared of making mistakes. I overcame this and gave things a go, an even if I made 'mistakes' everything was okay, because making mistakes has to be apart of the learning process. It's more overcoming this fear which is the hard part for me. 
+I think I usually do when learning, usually my critial voice is quite a perfectionist and doesn't let me make mistakes. This voice makes it hard to even give things ago, because I'm scared of making mistakes. I overcame this and gave things a go, an even if I made 'mistakes' everything was okay, because making mistakes has to be apart of the learning process. It's more overcoming this fear which is the hard part for me. 
 
 #### What is the hardest problem you have solved so far?
 
@@ -209,11 +209,11 @@ Maybe seeing other classmates assesmentswork, I think it was helpful to know wha
 
 #### What is a fixed mindset?
 
-In a fixed mindset, people believe that their qualities e.g. intelligence are fixed or talents are inherent, and therefore cannot grow. I always thought this is a very close minded and limited mindset, as it pretty much stops you from growing and developing your qualities. FOr example when people say I'm a very talented muscician and they could never be a violinist like me, which is not true at all and almost undermines the hardwork I put in. As well as the fact any one can develop those skills, and shouldn't limit themselves, even if development might come a little slower.
+In a fixed mindset, people believe that their qualities e.g. intelligence are fixed or talents are inherent, and therefore cannot grow. I always thought this is a very close minded and limited mindset, as it pretty much stops you from growing and developing your qualities. For example, when people say I'm a very talented muscician and they could never be a violinist like me, it is not true at all and almost undermines the hardwork I put in (as it implies talent is inherent, and I was just born with musicality which isn't true...) As well as the fact any one can develop those skills, and shouldn't limit themselves, even if development might come a little slower.
 
 #### What is something kind you have done for someone else?
 
-I had my first orchestra rehearshal this week, I arrived a bit early so I helped set up all the chairs.
+I had my first orchestra rehearsal this week, I arrived a bit early so I helped set up all the chairs.
 
 #### Have you developed a habit of persevering?
 
